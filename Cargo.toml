@@ -20,7 +20,10 @@ members = [
     "networks/monza/monza-full-node",
     "networks/suzuka/suzuka-client",
     "networks/suzuka/suzuka-config",
-    "networks/suzuka/suzuka-full-node",
+    "networks/suzuka/suzuka-full-node", 
+    "protocol-units/bridge/shared", 
+    "protocol-units/bridge/cli", 
+    "protocol-units/bridge/service",
 ]
 
 [workspace.package]
